@@ -1,0 +1,15 @@
+C:\mycsharp\Sumal\bin\Debug\net10.0\Sumal.exe
+C:\mycsharp\Sumal\bin\Debug\net10.0\Sumal.deps.json
+C:\mycsharp\Sumal\bin\Debug\net10.0\Sumal.runtimeconfig.json
+C:\mycsharp\Sumal\bin\Debug\net10.0\Sumal.dll
+C:\mycsharp\Sumal\bin\Debug\net10.0\Sumal.pdb
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.AssemblyInfoInputs.cache
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.AssemblyInfo.cs
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.csproj.CoreCompileInputs.cache
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.sourcelink.json
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.dll
+C:\mycsharp\Sumal\obj\Debug\net10.0\refint\Sumal.dll
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.pdb
+C:\mycsharp\Sumal\obj\Debug\net10.0\Sumal.genruntimeconfig.cache
+C:\mycsharp\Sumal\obj\Debug\net10.0\ref\Sumal.dll
