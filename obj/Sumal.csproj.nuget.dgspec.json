@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\mycsharp\\Sumal\\Sumal.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Sumal\\Sumal.csproj": {}
   },
   "projects": {
-    "C:\\mycsharp\\Sumal\\Sumal.csproj": {
+    "C:\\Users\\HP\\Desktop\\Sumal\\Sumal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\mycsharp\\Sumal\\Sumal.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Sumal\\Sumal.csproj",
         "projectName": "Sumal",
-        "projectPath": "C:\\mycsharp\\Sumal\\Sumal.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Sumal\\Sumal.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\mycsharp\\Sumal\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Sumal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

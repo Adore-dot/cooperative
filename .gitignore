@@ -1,0 +1,32 @@
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# VS Code
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# User-specific files
+*.user
+
+# Environment variables
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
